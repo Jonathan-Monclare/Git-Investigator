@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+#app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+body {
+  padding: 0;
+  width: 100%;
+  margin: 0;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  font-family: inter !important;
+=======
+#app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+body {
+  padding: 0;
+  width: 100%;
+  margin: 0;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  font-family: inter !important;
+>>>>>>> 269106b (snapshot)
+}
